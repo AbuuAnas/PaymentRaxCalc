@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentDeductionsCalculator", "PaymentDeductionsCalculator.csproj", "{BE10CA3E-D627-4116-B05A-BCE72DAFC036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE10CA3E-D627-4116-B05A-BCE72DAFC036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE10CA3E-D627-4116-B05A-BCE72DAFC036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE10CA3E-D627-4116-B05A-BCE72DAFC036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE10CA3E-D627-4116-B05A-BCE72DAFC036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6B54CC-8F87-40B1-8B62-47D4D389B6EA}
+	EndGlobalSection
+EndGlobal
